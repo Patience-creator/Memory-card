@@ -1,2 +1,2 @@
 # Memory-card
-A game to find matching cards
+A game I made to find matching cards. Check out my updated version.
